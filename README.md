@@ -3,7 +3,7 @@ This directive gives you a Bootstrap Dropdown with the power of AngularJS direct
 
 ## Installation
 ```
-bower install angular-dropdown-multiselect
+bower install angular-dropdown-multiselect-m
 ```
 ```
 <script type="text/javascript" src="angular-dropdown-multiselect.min.js"></script>
