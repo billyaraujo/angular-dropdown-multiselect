@@ -15,7 +15,7 @@ gulp.task('devserver', function() {
 
 gulp.task('github', function() {
   var options = {
-    remoteUrl: 'git@github.com:alaingilbert/angular-dropdown-multiselect.git',
+    remoteUrl: 'git@github.com:billyaraujo/angular-dropdown-multiselect.git',
     branch: 'gh-pages',
     push: true,
   };
